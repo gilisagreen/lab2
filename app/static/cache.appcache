@@ -1,0 +1,30 @@
+CACHE MANIFEST
+# 2012-02-21 v1.0.0
+
+CACHE:
+/static/style.css
+/static/card_back.jpg
+/static/cards.js
+/static/images/favicon.ico
+/static/images/favicon.png
+/js/modernizr.custom.js
+//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js
+//ajax.googleapis.com/ajax/libs/prototype/1.7.1.0/prototype.js
+/static/css/boostrap.min.css
+/static/css/bootstrap-responsive.min.css
+/static/css/web2py_bootstrap.css
+/static/css/web2py.css
+/static/10_of_clubs.png
+/static/2_of_diamonds.png
+/static/6_of_clubs.png
+/static/3_of_hearts.png
+/static/ace_of_spades.png
+/static/9_of_diamonds.png
+/static/4_of_hearts.png
+/static/7_of_spades.png
+
+NETWORK:
+*
+
+FALLBACK:
+memory.html
